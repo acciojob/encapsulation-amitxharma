@@ -4,9 +4,9 @@ public class RWOnly {
 
     private String name;
 
-    public RWOnly(String name) {
-        this.name=name;
-    }
+    //    public RWOnly(String name) {
+    //        this.name=name;
+    //    }
 
     public String getName()
     {
